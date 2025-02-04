@@ -12,8 +12,6 @@ GETTING STARTED
 ***************
 * clone the project from github and run the project on system 
 
-
-
 * Tech Stack 
 --------------
 1.MVVM with clean architecture with use case
