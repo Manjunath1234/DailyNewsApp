@@ -20,5 +20,5 @@ GETTING STARTED
 4.Central versioning for dependencies
 5.SOLID principles and oops concepts
 6.Dagger-Hilt DI
-7,Coil for image loading
-8,Kotlin coroutines
+7.Coil for image loading
+8.Kotlin coroutines
