@@ -107,8 +107,11 @@ dependencies {
     implementation(libs.androidx.navigation.fragment.ktx)
 
     testImplementation(libs.junit)
+    testImplementation(libs.mockito)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    androidTestImplementation(libs.hilt.android.test)
+    androidTestImplementation(libs.hilt.kapt.test)
     androidTestImplementation(platform(libs.androidx.compose.bom))
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
